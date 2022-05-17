@@ -11,6 +11,7 @@ class BankAccount
 
   def deposit(amount)
     x = 45
+    y = 34
     return x
   end
 
