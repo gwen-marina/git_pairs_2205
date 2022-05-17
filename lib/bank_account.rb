@@ -10,7 +10,8 @@ class BankAccount
   end
 
   def deposit(amount)
-
+    x = 45
+    return x
   end
 
   def withdraw(amount)
